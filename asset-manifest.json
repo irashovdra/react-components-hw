@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-components-hw/static/css/main.e6c13ad2.css",
+    "main.js": "/react-components-hw/static/js/main.cda6892e.js",
+    "index.html": "/react-components-hw/index.html",
+    "main.e6c13ad2.css.map": "/react-components-hw/static/css/main.e6c13ad2.css.map",
+    "main.cda6892e.js.map": "/react-components-hw/static/js/main.cda6892e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cda6892e.js"
+  ]
+}
